@@ -7,7 +7,7 @@ Este repositorio solo publica los instaladores (APK) para Android. El código es
 
 ## Descargar
 
-➡️ **[Última versión](https://github.com/julhuarachidev/cotizon-releases/releases/latest)** — descarga el archivo `Cotizon-x.y.z.apk`.
+➡️ **[Versiones](https://github.com/julhuarachidev/cotizon-releases/releases)**: abre la primera de la lista y descarga el archivo `Cotizon-x.y.z.apk`.
 
 ## Instalar
 
